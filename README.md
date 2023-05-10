@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Create a resource group in Microsoft Azure.
 - Create a Virtual Machines with Windows 10 OS( maken sure when creating the VM to allow the VM to creant a new Virtual Network)
-- Downlaod the following files: https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+- Download the following files: https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 
 <h2>Installation Steps</h2>
