@@ -77,3 +77,13 @@ Reload IIS (Open IIS, Stop and Start the server)
 
 </p>
 <br />
+<img src="https://i.imgur.com/NZ5DTNd.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Install osTicket v1.15.8
+- Download osTicket from the Installation Files Folder
+- Extract and copy “upload” folder to c:\inetpub\wwwroot
+- Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+- Reload IIS (Open IIS, Stop and Start the server)
+</p>
+<br />
